@@ -1,0 +1,14 @@
+How to run the code.:
+Open the html fil in browser
+Open the browser console (right-click and select Inspect)
+Code should automatical run and log result in console
+
+A brief overview of my approach:
+As instructed, I have create a Redux-inspired store to manage and log the state of a counting Tally App
+Inspiration and guidance from the Observer Design Pattern
+As far as possible, data and functionality are kept separate
+Mostly pure function used to minimize side effects and easily trace where data is mutated
+
+Any challenges I faced and how I overcame them.
+Coming from OOP languages, at first a function focus paradigm like redux state management can be very tough toget my head around
+While following along with the LMS lectures and other videos online, I had to pause and repeat many parts as the logic is not intuitive
